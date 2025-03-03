@@ -3,12 +3,16 @@ Type: Package
 Title: Tools for Qualitative Data Rating
 Version: 0.1.0
 Authors@R: 
-    c(person(given = "Nils",
-             family = "Neuner",
-             role = c("aut", "cre"),
-             email = nils.neuner@uni-konstanu.de))
+    c(
+      person(
+        given = "Nils",
+        family = "Neuner",
+        role = c("aut", "cre"),
+        email = "nils.neuner@example.com"
+      )
+    )
 Description: Provides functions and utilities for qualitative data rating,
-  including methods to categorize and summarize textual data. 
+  including methods to categorize and summarize textual data.
 License: GPL-3
 Encoding: UTF-8
 RoxygenNote: 7.2.3
